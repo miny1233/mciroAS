@@ -1,0 +1,6 @@
+in r0,00
+inc r0
+out 40,r0
+bzc 0 9
+jmp 0 02
+halt
