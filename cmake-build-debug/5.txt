@@ -1,0 +1,5 @@
+in r0,00
+ldi r1,1
+add r1,r0
+out 40,r0
+sta 0 7a

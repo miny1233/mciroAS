@@ -1,0 +1,11 @@
+in r0,00
+in r1,00
+ldi r2,0
+ldi r3,1
+add r0,r3
+sub r0,r3
+bzc 0 0f
+add r2,r1
+jmp 0 9
+out 40,r2
+halt

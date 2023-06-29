@@ -1,0 +1,7 @@
+in r1,00
+in r0,00
+sta 0 7a,r0
+lad 0 7a,r1
+sta 0 7b,r1
+out 40,r1
+jmp 0 6
