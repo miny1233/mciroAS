@@ -1,3 +1,0 @@
-/Users/xiezinan/Desktop/Project/mciroAS/cmake-build-debug/CMakeFiles/mciroAS.dir
-/Users/xiezinan/Desktop/Project/mciroAS/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/xiezinan/Desktop/Project/mciroAS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
